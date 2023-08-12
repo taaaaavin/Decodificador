@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/f6666e9f8e.js" crossorigin="anonymous"></script>
+        <link rel="shortcut icon" href="imgs/logo.svg" type="image/svg+xml">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/style.css">
+        <title>Decodificador</title>
+    </head>
+    <body>
+        <main class="container">
+            <header class="header">
+                <img class="logo" src="imgs/alura-logo.png" alt= "">
+            </header>
+            <section class="modificaTexto">
+                <textarea id="textoAlvo" placeholder="Digite seu texto"></textarea>
+                <h4 class="info"><i style="margin-right: 8px;" class="fa-solid fa-circle-exclamation"></i>Apenas letras minúsculas e sem acento.</h4>
+                <div class="btns">
+                    <button class="btn btnCrip" onclick="btnCrip()">Criptografar</button>
+                    <button class="btn btnDescrip" onclick="btnDescrip()">Descriptografar</button>
+                </div>
+            </section>
+            <section class="exibiTexto">
+                <textarea id="textoResultado" placeholder="Nenhuma mensagem encontrada." readonly></textarea>
+                <button class="btn btnCopy" onclick="copiarTexto()">Copiar</button>
+            </section>
+        </main>
+        <script src="script.js"></script>
+    </body>
+</html>
