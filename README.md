@@ -24,10 +24,12 @@
 - O resultado será exibido no painel correspondente.
 
 <h2>Resultado</h2>
-
+<div align="center">
+  
 ![image](https://github.com/taaaaavin/Decodificador/assets/121905549/0ed40e00-c804-42c6-aa9c-42bd185e9ea8)
 ![image](https://github.com/taaaaavin/Decodificador/assets/121905549/7a2a8bcd-ec7b-4721-99a1-7348975949d5)
 
 <hr>
 
 ![image](https://github.com/taaaaavin/Decodificador/assets/121905549/10e6787d-03a2-4a3b-aefb-1aa7c0167a86)
+</div>
