@@ -11,18 +11,6 @@
 
 <b>Copiar:</b> Copia o texto Criptografado/Descriptografado para a Área de Transferência.
 
-<h2>Como Usar</h2>
-
-- Clone ou baixe este repositório para o seu computador.
-
-- Abra o arquivo index.html no seu navegador da web.
-  
-- Na página exibida, digite o texto que deseja criptografar ou descriptografar.
-  
-- Selecione a ação desejada: "Criptografar" ou "Descriptografar".
-
-- O resultado será exibido no painel correspondente.
-
 <h2>Resultado</h2>
 <div align="center">
   
